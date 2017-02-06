@@ -1,0 +1,32 @@
+{
+  "name": "vr-at-sld",
+  "version": "1.0.0",
+  "description": "VR at Sleighdogs.",
+  "scripts": {
+    "start": "http-server -a localhost -p 8080 -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaltakac/vr-at-sld.git"
+  },
+  "keywords": [
+    "aframe",
+    "slides",
+    "presentation",
+    "reveal",
+    "reveal.js",
+    "vr",
+    "webvr",
+    "slidedeck",
+    "sleighdogs"
+  ],
+  "author": "Michal Takac <michal@sld.gs>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaltakac/vr-at-sld/issues"
+  },
+  "homepage": "https://github.com/michaltakac/vr-at-sld#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
